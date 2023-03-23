@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @chiaralesa, I am a student of Quantitative Finance . 
+- 👋 Hi, I’m @chiaralesa, I am a Quant in London. 
 - ✍️ I’m interested in ✨Mathematical and Statistical Models applied to Finance✨
+- 💻 Yes, also in Machine Learning! 
+- 🎓 I own a BSc in Finance and a MSc. in Quantitative Finance.
 - 💼 Currently involved in jobs in Risk and Trading.
-
+- 📷 Photography, ✈️ Travelling, 📚 Reading, 🏃Jogging.
+- 🌱 Vegan
 
 
 <!---
