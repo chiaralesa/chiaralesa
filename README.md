@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me on social networks:
 
 <p>
-  <a href="https://https://www.linkedin.com/in/chiara-lesa/" >
+  <a href="https://www.linkedin.com/in/chiara-lesa/" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> 
   </a> &nbsp; 
   <a href="https://github.com/chiaralesa" >
