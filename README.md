@@ -40,8 +40,6 @@ You can click the Preview link to take a look at your changes.
  </a>
 </p>
 
-![Chiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaralesa&count_private=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaralesa&count_lags=9)](https://github.com/chiaralesa/github-readme-stats)
 
   <!---
