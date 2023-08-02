@@ -2,7 +2,7 @@
 - ✍️ I’m interested in ✨AI/ML and Statistical Models applied to Finance✨
 - 🎓 I own a BSc. with Majors Finance and Statistics and a MSc. in Quantitative Finance.
 - 💻 Self-learning AI and ML.
-- 💼 Currently looking for jobs in Quantitative Research and Trading.
+- 💼 Quantitative Research and Trading.
 - 📷 Photography, ✈️ Travelling, 📚 Reading, 🏃Running.
 - 🌱 Vegan
 
