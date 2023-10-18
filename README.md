@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @chiaralesa, I am a Quant, currently based in London. 
 - ✍️ I’m interested in ✨AI/ML and Statistical Models applied to Finance✨
-- 🎓 I own a BSc. with Majors Finance and Statistics and a MSc. in Quantitative Finance.
+- 🎓 BSc. with Majors Finance and Statistics and a MSc. in Quantitative Finance.
 - 💻 Self-learning AI and ML.
 - 💼 Quantitative Research and Trading.
-- 📷 Photography, ✈️ Travelling, 📚 Reading, 🏃Running.
-- 🌱 Vegan
+- 📷 Photography, ✈️ Travelling, 📚 Reading, 🏃Running, ♚Chess, 🎮Videogrames.
+
 
 
 <!---
